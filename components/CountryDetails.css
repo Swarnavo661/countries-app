@@ -1,0 +1,41 @@
+* 
+{
+    box-sizing: border-box;
+}
+body.darkMode 
+{
+    color: white;
+}
+.country-details 
+{
+    padding: 40px;
+    max-width: 1150px;
+    width: 100%;
+    margin-inline: auto;
+}
+.border-countries a 
+{
+    padding: 4px 16px;
+    font-size: 14px;
+}
+img 
+{
+    width: 500px;
+}
+.backButton 
+{
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+}
+.textContainer 
+{
+    margin-top: 20px;
+    display: flex;
+    gap: 50px;
+}
+.countryDetails 
+{
+    margin-top: 40px;
+}

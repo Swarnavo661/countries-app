@@ -1,0 +1,21 @@
+
+/* .shimmer-card 
+{
+    background-color: #ccc;
+    height: 300px;
+} */
+.shimmer-card .shimmer-image 
+{
+    background-color: #ccc;
+    height: 160px;
+}
+.shimmer-card .shimmer-title 
+{
+    background-color: #ccc;
+    height: 30px;
+}
+.shimmer-card p 
+{
+    background-color: #ccc;
+    height: 25px;
+}
